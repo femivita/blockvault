@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639024428174",
+    "firebase_url": "https://blockvault-investment-db251-default-rtdb.firebaseio.com",
+    "project_id": "blockvault-investment-db251",
+    "storage_bucket": "blockvault-investment-db251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639024428174:android:b68de8b92f8c1f48f3c5df",
+        "android_client_info": {
+          "package_name": "com.example.blockvault_investment_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639024428174-1vh6cnlpbcmipn81r2fgrqdmua0dqcv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKb-V9uV9czc2-tnGg7qKq7FJ5dyTtt9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639024428174-1vh6cnlpbcmipn81r2fgrqdmua0dqcv7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639024428174-ofmcldt3q117okpdoddb7jeuse5aft4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blockvaultInvestmentFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
